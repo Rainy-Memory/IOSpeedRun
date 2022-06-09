@@ -1,0 +1,2 @@
+#define TEST_SIZE 1000000
+#define PORT 8001
